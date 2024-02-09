@@ -1,40 +1,21 @@
-![nft-interface](https://user-images.githubusercontent.com/23501023/236430141-fbcda395-ebf9-449e-abce-d710d52337dd.png)
+## ICP Land Furniture NFT marketplace
 
-## Ryno NFT Marketplace Template
+Based on the Ryno NFT Marketplace template made with chakra UI for the BitFinity community
 
-This is a react template for an NFT Marketplace made with chakra UI
+Open [Demo Website](https://icp-land-furniture.netlify.app/) to see the Marketplace DEMO.
 
-First, run the development server:
+# Modifications
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+mintNFT function has been modified to accept another argument (Name: string) in order for the 3D interface to be able to retrieve both 3D files and rendered picture when needed.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The idea is for people to view only the owned NFTs in the store gallery on the [ICP Land metaverse](https://icp-land.netlify.app/) and be able to modify the furniture of each room if they have the password.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## To Do 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Ownership check on wallet login on the metaverse interface, by now you see all the demo furniture on the market page in the metaverse, check the [ICP Land repository](https://github.com/jilt/ICP-Land) to get the demo password.
+A serious discussion with BitFinity community to create a new standard for 3D NFTs and their new metaverse.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## instance offline
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
--   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
--   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This repository was created for the encode club hackathon, the 3D world may be offline when you check, please reach out to jilt in the [encode club discord](https://www.encode.club) to see it online.
