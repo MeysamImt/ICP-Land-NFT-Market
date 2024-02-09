@@ -1,0 +1,147 @@
+[
+  {
+    "id": "0",
+    "name": "tableCoffee",
+    "size": [ 2, 2 ],
+    "description": "Coffe table for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/tableCoffee.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "tableCoffee.png"
+  },
+  {
+    "id": "1",
+    "name": "loungeSofaCorner",
+    "size": [ 5, 5 ],
+    "rotation": 2,
+    "description": "Corner Sofa for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/loungeSofaCorner.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "loungeSofaCorner.png"
+  },
+  {
+    "id": "2",
+    "name": "bear",
+    "description": "Hunters' wall decoration",
+    "size": [ 2, 1 ],
+    "wall": true,
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bear.glb",
+    "metaPath": "ipfs://bafkreic4lv2uy22ptcro34m6z6dqmormcsyy53iovjxqduzjkcea5le3wq",
+    "imagePath": "bear.png"
+  },
+  {
+    "id": "3",
+    "name": "loungeSofaOttoman",
+    "size": [ 2, 2 ],
+    "description": "Ottoman sofa for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/loungeSofaOttoman.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "loungeSofaOttoman.png"
+  },
+  {
+    "id": "4",
+    "name": "tableCoffeeGlassSquare",
+    "size": [ 2, 2 ],
+    "description": "Glass coffe table for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/tableCoffeeGlassSquare.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "tableCoffeeGlassSquare.png"
+  },
+  {
+    "id": "5",
+    "name": "loungeDesignSofaCorner",
+    "size": [ 5, 5 ],
+    "rotation": 2,
+    "description": "Corner Sofa for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/loungeDesignSofaCorner.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "loungeDesignSofaCorner.png"
+  },
+  {
+    "id": "6",
+    "name": "loungeDesignSofa",
+    "size": [ 5, 2 ],
+    "rotation": 2,
+    "description": "Lounge Design Sofa for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/loungeDesignSofa.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "loungeDesignSofa.png"
+  },
+  {
+    "id": "7",
+    "name": "loungeSofa",
+    "size": [ 5, 2 ],
+    "rotation": 2,
+    "description": "Lounge Sofa for Cosy or Party room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/loungeSofa.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "loungeSofa.png"
+  },
+  {
+    "id": "8",
+    "name": "bookcaseOpenLow",
+    "size": [ 2, 1 ],
+    "description": "Small low Book Case",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bookcaseOpenLow.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "bookcaseOpenLow.png"
+  },
+  {
+    "id": "9",
+    "name": "bookcaseClosedWide",
+    "size": [ 3, 1 ],
+    "rotation": 2,
+    "description": "Big closed Book Case",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bookcaseClosedWide.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "bookcaseClosedWide.png"
+  },
+  {
+    "id": "10",
+    "name": "chairCushion",
+    "size": [ 1, 1 ],
+    "rotation": 2,
+    "description": "A Chair with cusion",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/chairCushion.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "chairCushion.png"
+  },
+  {
+    "id": "11",
+    "name": "bedSingle",
+    "size": [ 3, 6 ],
+    "rotation": 2,
+    "description": "Single Bed",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bedSingle.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "bedSingle.png"
+  },
+  {
+    "id": "12",
+    "name": "bench",
+    "size": [ 2, 1 ],
+    "rotation": 2,
+    "description": "Bench for kitchen or cozy room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bench.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "bench.png"
+  },
+  {
+    "id": "13",
+    "name": "bedDouble",
+    "size": [ 5, 5 ],
+    "rotation": 2,
+    "description": "Double Bed",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/bedDouble.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "bedDouble.png"
+  },
+  {
+    "id": "14",
+    "name": "benchCushionLow",
+    "size": [ 2, 1 ],
+    "description": "Bench for kitchen or Cosy room",
+    "image": "https://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy.ipfs.nftstorage.link/ipfs/bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy/benchCushionLow.glb",
+    "metaPath": "ipfs://bafybeie4gtsw3atk35i2acamlyuo4muc3jwabsxnk7mnicd2chadcbfzmy",
+    "imagePath": "benchCushionLow.png"
+  }
+]

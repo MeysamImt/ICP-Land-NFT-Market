@@ -1,0 +1,61 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Inter, Helvetica, Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    color-scheme: dark;
+}
+
+body {
+    color: #ffffff;
+    background: #191c1f;
+    --color-primary: #fada3f;
+    --color-secondary: #ff2136;
+    --color-tertiary: #0294fe;
+    --color-quaternary: #9b4dff;
+    --card-background: #252133;
+    --highlighted-background: #202326;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Custom ICP-Land*/
+
+.css-8ud36g {
+    overflow: hidden!important;
+}
+
+.nftWrapper {
+    border-radius: 3px;
+    min-height: 180px;
+    background: linear-gradient(180deg, #b8d1fc 0%, #f2f0da 80%);
+    background: radial-gradient( at 50% 75%, #f2f0da 0%, #ecdde5 40%, #b8d1fc 80%, #9ebcf1 100% );
+}
+    .nftWrapper > canvas {
+        width: 100%;
+        height: 100%;
+    }
