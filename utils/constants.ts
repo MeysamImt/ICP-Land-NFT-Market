@@ -16,5 +16,5 @@ export const BITFINITY_CHAIN = {
     //blockExplorerUrls: []
 } as const satisfies Chain
 
-// export const contractAddress = '0xf9b3c1c7a99796803300d81b7a2a2cf1eb44da26'
-export const contractAddress = "0xf9b3c1c7a99796803300d81b7a2a2cf1eb44da26"
+// export const contractAddress = '0x6e8d3a3c832b76f5d2844f0830477d74700d0767'
+export const contractAddress = "0x6e8d3a3c832b76f5d2844f0830477d74700d0767"
